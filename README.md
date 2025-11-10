@@ -76,12 +76,14 @@ These results were visualized through charts and summary tables to measure AI pe
 
 ### Clone the repo
 ```bash
-git clone https://github.com/<your-username>/fox-and-hounds-45.git
+git clone https://github.com/cpawlenok/fox-and-hounds-45.git
 cd fox-and-hounds-45
-
+```
+```bash
 jupyter notebook
 # or
 python fox_and_hounds_45.py
+```
 
 
 
